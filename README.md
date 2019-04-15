@@ -1,6 +1,6 @@
 # PowerKPI for Qlik Sense
 
-[!Trusted Extension](https://ted.developer.qlik.com/ted-seal.png =250x)
+<img src="https://ted.developer.qlik.com/ted-seal.png" alt="Trusted Extension" width="250" />
 
 PowerKPI trusted visualization extension allows you to visually design responsive and interactive user experience for Qlik Sense: from simple KPI dashboards to interactive detailed table-like views.
 
