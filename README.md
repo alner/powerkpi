@@ -4,6 +4,8 @@ PowerKPI visualization extension allows you to visually design responsive and in
 
 See more at [powerkpi.rbcgrp.com](https://powerkpi.rbcgrp.com).
 
+See help at: [help.rbcgrp.com](https://help.rbcgrp.com).
+
 Youtube video:
 
 [![PowerKPI promo video](https://img.youtube.com/vi/Ty3GUL3uzag/hqdefault.jpg)](https://youtu.be/Ty3GUL3uzag)
